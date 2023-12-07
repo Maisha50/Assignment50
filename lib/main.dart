@@ -64,7 +64,7 @@ class ProductDetailsPage extends StatelessWidget {
           SizedBox(height: 11),
           Text(
             productPrice,
-            style: TextStyle(fontSize: 20,
+            style: TextStyle(fontSize: 23,
               fontWeight: FontWeight.bold,
             ),
           ),
