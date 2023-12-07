@@ -61,7 +61,7 @@ class ProductDetailsPage extends StatelessWidget {
           Image.asset('assets/$image.jpg',
             width: 100.0,
           ),
-          SizedBox(height: 11),
+          SizedBox(height: 12),
           Text(
             productPrice,
             style: TextStyle(fontSize: 20,
